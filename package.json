@@ -1,0 +1,26 @@
+{
+  "name": "alexa-marco-polo",
+  "version": "1.0.0",
+  "description": "Marco Polo skill for Amazon Alexa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Undergrounder/alexa-marco-polo.git"
+  },
+  "keywords": [
+    "amazon",
+    "alexa",
+    "marco",
+    "polo",
+    "skill"
+  ],
+  "author": "Adrian Tello",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Undergrounder/alexa-marco-polo/issues"
+  },
+  "homepage": "https://github.com/Undergrounder/alexa-marco-polo#readme"
+}
